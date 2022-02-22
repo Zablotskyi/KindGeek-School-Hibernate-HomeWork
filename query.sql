@@ -1,0 +1,4 @@
+drop database authorsbooks_kindgeek_school_hibernate_homework;
+create database authorsbooks_kindgeek_school_hibernate_homework;
+use authorsbooks_kindgeek_school_hibernate_homework;
+set charset utf8;
